@@ -1,3 +1,6 @@
+このリポジトリは、 https://github.com/blu3mo/Scrapbox-Duplicator をforkしたものです
+
+
 # Scrapbox Duplicator
 
 Scrapboxの非公開・公開プロジェクトを分けて運用する際に面倒な「ページの転送」を自動で行います。
